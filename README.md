@@ -1,0 +1,1 @@
+This program loads a tree with some hundreds of thousands of long integers from a file and prompts the user to search the tree. Before the program closes, it displays the average depth of levels accessed per search.
